@@ -51,7 +51,7 @@ public class dataType {
         \'  :’
         \"  :”
         \ooo    :３ケタの８進数
-        \uhhhh  :４ケタの16進数
+        \uffff  :４ケタの16進数
         */
     }
 }
